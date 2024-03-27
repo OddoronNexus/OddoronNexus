@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Oddoron Nexus Wiki
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is currently in development and likely to change over time but it's definitely going.
