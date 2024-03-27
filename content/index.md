@@ -1,5 +1,5 @@
 ---
-title: index
+title: Oddoron Nexus
 draft: false
 tags:
 ---
