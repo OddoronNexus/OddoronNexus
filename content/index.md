@@ -1,10 +1,6 @@
 ---
-title: Oddoron Nexus
-draft: false
-tags:
+title: Welcome to Quartz
 ---
 
-This is currently in development and likely to change over time but it's definitely going.
-I hope for this to serve as a sort of wiki for the players in the campaign.
-INDEX:
-[[Player Characters]]
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.
