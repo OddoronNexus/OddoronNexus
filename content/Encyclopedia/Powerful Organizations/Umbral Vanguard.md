@@ -13,4 +13,4 @@ The Umbral Vanguard is made of several groups that work together towards their c
 The Umbral Vanguard are a clandestine group dedicated to undermining oppression wherever it may be found.
 
 Notable members:
-[[Knight-captain Throngneir]]
+[[Knight-Captain Throngneir]]
