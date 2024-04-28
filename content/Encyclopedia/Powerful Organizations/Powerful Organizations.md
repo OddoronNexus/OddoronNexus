@@ -1,3 +1,3 @@
-[[Archon Grimoire]]
-[[Gunaraad Watch]]
+[[Archon Grimoire]]<br>
+[[Gunaraad Watch]]<br>
 [[Umbral Vanguard]]

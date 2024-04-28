@@ -1,2 +1,2 @@
-[[Captain Bjorn]]
+[[Captain Bjorn]]<br>
 [[Knight-Captain Throngneir]]

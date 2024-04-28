@@ -5,5 +5,5 @@ tags:
   - contents
 ---
 [[Psionic Ooze]]
-<br></br>
+<br>
 [[Pitcher of Preference]]

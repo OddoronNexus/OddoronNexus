@@ -1,3 +1,3 @@
-[[Powerful Organizations]]
-[[Thrice-blessed Brandy]]
-[[Science and the Arcane]]
+[[Powerful Organizations]]<br>
+[[Thrice-blessed Brandy]]<br>
+[[Science and the Arcane]]<br>
