@@ -2,8 +2,8 @@
 title: 
 draft: false
 tags:
-  - contents
+  - index
 ---
-[[Psionic Ooze]]
-<br>
+[[Magic and Casting]]<br>
+[[Psionic Ooze]]<br>
 [[Pitcher of Preference]]
