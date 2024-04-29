@@ -3,7 +3,7 @@ title: Player Characters
 draft: false
 tags:
 ---
-Below is a list of player characters and a link to their character page.
-[[Amorphous Hobblehobble]]
-[[Arokoris]]
-[[Lorn Ironroot]]
+Below is a list of player characters and a link to their character page.<br>
+[[Amorphous Hobblehobble]]<br>
+[[Arokoris]]<br>
+[[Lorn Ironroot]]<br>
