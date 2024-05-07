@@ -8,7 +8,7 @@ tags:
 **Ancotar's Greater Chameleon**<br>
 
 _5th-level illusion_<br>
-
+**Classes:** Wizard, sorcerer, bard, warlock<br>
 **Casting Time:** 1 action  <br>
 **Range:** Self (30-foot radius)  <br>
 **Components:** V, S, M (a small piece of chameleon skin)<br>  

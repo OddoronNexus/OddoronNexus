@@ -7,7 +7,7 @@ tags:
 ---
 **Ancotar's Lesser Chameleon**<br>
 
-_3rd-level illusion_<br>
+_3rd-level illusion_<br>**Classes:** Wizard, sorcerer, bard, warlock<br>
 **Casting Time:** 1 action<br>  
 **Range:** Touch  <br>
 **Components:** V, S, M (a small piece of chameleon skin)  <br>
