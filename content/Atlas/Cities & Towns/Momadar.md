@@ -1,3 +1,9 @@
+---
+title: 
+draft: false
+tags:
+  - settlement
+---
 Cockroach pets that act like dogs.
 They wear large hats shaped like kiwanos and orange spiked cockroach wing cloaks.
 They grow kiwano fruits and worship a god of kiwanos.
