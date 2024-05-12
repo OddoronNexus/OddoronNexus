@@ -4,22 +4,31 @@ draft: false
 tags:
   - settlement
 ---
-Cockroach pets that act like dogs.
-They wear large hats shaped like kiwanos and orange spiked cockroach wing cloaks.
-They grow kiwano fruits and worship a god of kiwanos.
-Secretive cult of intelligent cockroaches that are like perry the platypus in that they act like animals but are secretly sentient and this cult worships a god of durians. They have enchanted helmets made of hollowed durians that make anyone who sees them with the hat not recognize they're the cockroach and instead recognize their intelligent persona.
+Momadar, situated on the island of [[Aurora's Atoll]] within [[Graymoor County]], is a prominent port city renowned for its agricultural exports. The town's economic vitality is primarily driven by the cultivation and sale of its diverse array of crops and associated products. Notably, Momadar boasts an extensive production of kiwano and durian fruits, which stand as emblematic staples of its agricultural output.
+# Religion
+Momadar is home to the cult of [[Verdannis]], a god of agriculture and kiwanos, and one of the aspects of [[Fruitspinner]]. Worshipper of Verdannis wear a headdress called a Verdannisian Husk made from the hollowed-out shell of the largest kiwanos or other materials fashioned to look like a kiwano.<br>
+Momadar also harbors a secretive sect devoted to the worship of [[Zirbethinus]], a god of hidden knowledge, durians, and another aspect of Fruitspinner. The followers of this cult are mostly sentient skitterpups who adopt an intelligent persona when wearing the sacred headdress of their cult, the Durian Crown. Crafted from the spiky husks of durian fruits or fashioned from other materials to mimic their appearance, these headdresses are enchanted such that when worn, the wearer is disguised, and not recognizable as the same
+# Geography
+Set up on the Northeastern coast of Aurora's Atoll, Momadar occupies a key strategic within the island. The town benefits from the island's temperate maritime climate characterized by mild temperatures and cool coastal breezes, granting an environment conducive to agricultural and maritime pursuits.
+
+Surrounded by rolling hills and an abundance of arable land, ideal for the cultivation of multiple crops. Most notable among them, the countryside is dominated by kiwano vineyards. The natural harbor facilitates trade with other settlements. Traffic frequents this harbor, moving economic products and people in and out of the town every day.
+
+The coastal habitats about Momadar hoast a complex ecosystem within the coastal mangrove forests.
+
+Cockroach pets that act like dogs, called [[Skitterpups]].
+They wear orange spiked cockroach wing cloaks.
 The cockroach cult wants to kill the kiwano god and are currently spying to learn information about him. 
 The mayor of the town is a cleric of the kiwano god and has the trickery domain and his spells are all about spiked fruits.
 The prickly pear town grows Opuntia galapageia and they eat the fruit and make houses from the wood.
-Suncrest's mayor is a paladin
+[[Suncrest]]'s mayor is a paladin
 
-Trickster god of thorned fruits - Fruitspinner
-Kiwano aspect - Verdannis
-Durian aspect - Zirbethinus
-Lychee aspect - chinensis
-Prickly pear aspect - Opuntia
-Momadar mayor name -  Namibius
-Suncrest mayor name - Leucotricha
+Trickster god of thorned fruits - [[Fruitspinner]]
+Kiwano aspect - [[Verdannis]]
+Durian aspect - [[Zirbethinus]]
+Lychee aspect - [[Chinensis]]
+Prickly pear aspect - [[Opuntia]]
+Momadar mayor name -  [[Namibius]]
+Suncrest mayor name - [[Leucotricha]]
 Suncrest guard wears cactus wood armor
 Momadar guard has bombs shaped kiwanos so they stick to you
 Rival town that's very similar but with centipedes and it's prickly pears and lychees.

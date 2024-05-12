@@ -6,4 +6,5 @@ tags:
 ---
 [[Magic and Casting]]<br>
 [[Psionic Ooze]]<br>
-[[Pitcher of Preference]]
+[[Pitcher of Preference]]<br>
+[[Skitterpups]]
