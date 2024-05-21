@@ -4,7 +4,7 @@ draft: false
 tags:
   - settlement
 ---
-Momadar, situated on the island of [[Aurora's Atoll]] within [[Graymoor County]], is a prominent port city renowned for its agricultural exports. The town's economic vitality is primarily driven by the cultivation and sale of its diverse array of crops and associated products. Notably, Momadar boasts an extensive production of kiwano and durian fruits, which stand as emblematic staples of its agricultural output.
+Momadar, situated on the island of [[Aurora's Atoll]] within the [[County of Evershade]], is a prominent port city renowned for its agricultural exports. The town's economic vitality is primarily driven by the cultivation and sale of its diverse array of crops and associated products. Notably, Momadar boasts an extensive production of kiwano and durian fruits, which stand as emblematic staples of its agricultural output.
 # Religion
 Momadar is home to the cult of [[Verdannis]], a god of agriculture and kiwanos, and one of the aspects of [[Fruitspinner]]. Worshipper of Verdannis wear a headdress called a Verdannisian Husk made from the hollowed-out shell of the largest kiwanos or other materials fashioned to look like a kiwano.<br>
 Momadar also harbors a secretive sect devoted to the worship of [[Zirbethinus]], a god of hidden knowledge, durians, and another aspect of Fruitspinner. The followers of this cult are mostly sentient skitterpups who adopt an intelligent persona when wearing the sacred headdress of their cult, the Durian Crown. Crafted from the spiky husks of durian fruits or fashioned from other materials to mimic their appearance, these headdresses are enchanted such that when worn, the wearer is disguised, and not recognizable as the same
